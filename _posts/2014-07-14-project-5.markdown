@@ -3,11 +3,9 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: JOIN.png
-     LOGIN.png
 alt: image-alt
 project-date: January 2024
 client: 송현석
 category: Web Development
 description: 회원가입 페이지입니다. 입력한 개인정보는 DB에 저장됩니다.
-             로그인 페이지입니다. 사용자가 입력한 Id, Password는 Controller, Service를 거쳐 DB에 저장된 모든 회원 데이터 중 일치하는 데이터를 return 합니다.
 ---
