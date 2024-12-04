@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2024-12-05
+img: LOGIN.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Januery 2014
+client: 송현석
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 로그인 페이지입니다. 사용자가 입력한 Id, Password는 Controller, Service를 거쳐 DB에 저장된 모든 회원 데이터 중 일치하는 데이터를 return 합니다.
 ---
