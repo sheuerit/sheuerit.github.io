@@ -1,5 +1,5 @@
 # Site settings
-title: PORTFOLIO
+title: 송현석
 email: sheuerit@gmail.com
 url: https://github.com/sheuerit/sheuerit.io
 description: "책임감을 바탕으로 항상 노력하고 즐기는 개발자"
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Hyun Suk Song
   location: Location
   social: Around the Web
   credits: Credits
