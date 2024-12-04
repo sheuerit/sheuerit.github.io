@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-13
-img: SHOP.png
+img: LOGIN.png
 alt: image-alt
-project-date: November 2024
+project-date: January 2024
 client: 송현석
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 로그인 페이지입니다. 사용자가 입력한 Id, Password는 Controller, Service를 거쳐 DB에 저장된 모든 회원 데이터 중 일치하는 데이터를 return 합니다.
 ---
