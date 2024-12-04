@@ -4,7 +4,7 @@ modal-id: 4
 date: 2024-12-04
 img: JOIN.png
 alt: image-alt
-project-date: Januery 2024
+project-date: January 2024
 client: 송현석
 category: Web Development
 description: 회원가입 페이지입니다. 입력한 개인정보는 DB에 저장됩니다.
