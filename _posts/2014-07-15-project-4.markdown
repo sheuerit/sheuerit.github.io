@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2024-12-04
+date: 2014-07-15
 img: JOIN.png
 alt: image-alt
 project-date: January 2024
