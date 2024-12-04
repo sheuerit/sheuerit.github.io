@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024-12-04
 img: HOME.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2024
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 축구 팬들의 주요 관심 리그 및 컵 대회 일정, 결과, 순위 등을 확인할 수 있는 사이트의 홈 화면입니다. Spring Boot 플랫폼을 기반으로 회원가입, 로그인, 게시판 기능을 구현하였고 Api-Football에서 제공하는 데이터를 활용하여 축구관련 콘텐츠를 제작하였습니다.  
 ---
