@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 4
-date: 2024-12-04
-img: JOIN.png
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
 alt: image-alt
-project-date: Januery 2024
-client: 송현석
+project-date: April 2014
+client: Start Bootstrap
 category: Web Development
-description: 회원가입 페이지입니다. 입력한 개인정보는 DB에 저장됩니다.
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
