@@ -3,7 +3,6 @@ layout: default
 modal-id: 4
 date: 2024-12-04
 img: JOIN.png
-img: LOGIN.png
 alt: image-alt
 project-date: Januery 2024
 client: 송현석
