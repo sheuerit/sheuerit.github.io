@@ -8,5 +8,6 @@ project-date: November 2024
 client: 송현석
 category: Web Development
 description1: 게시판 페이지입니다.
-description2: DB에 저장된 게시글들을 출력합니다. 로그인 후 게시글 작성이 가능합니다.
+description2: DB에 저장된 게시글들을 출력합니다. 
+description3: 로그인 후 게시글 작성이 가능합니다.
 ---

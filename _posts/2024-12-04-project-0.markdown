@@ -8,5 +8,6 @@ project-date: November 2024
 client: 송현석
 category: Web Development
 description1: 게시글 작성 페이지입니다.
-description2: 입력한 제목과 내용은 DB에 저장됩니다. 게시글 내용은 TOAST UI Editor를 활용하여 편집할 수 있도록 구현하였습니다.
+description2: 입력한 제목과 내용은 DB에 저장됩니다. 
+description3: 게시글 내용은 TOAST UI Editor를 활용하여 편집할 수 있도록 구현하였습니다.
 ---
