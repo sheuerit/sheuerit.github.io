@@ -7,5 +7,7 @@ alt: image-alt
 project-date: January 2024
 client: 송현석
 category: Web Development
-description: 코인상점 페이지입니다. 코인을 소모하여 다양한 상품을 구매할 수 있도록 구현 중입니다.
+description1: 코인상점 페이지입니다.
+description2: 코인을 소모하여 다양한 상품을 구매할 수 있도록 구현 중입니다.
+description3:
 ---

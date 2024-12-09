@@ -7,5 +7,7 @@ alt: image-alt
 project-date: November 2024
 client: 송현석
 category: Web Development
-description: 경기 세부 지표를 확인할 수 있는 페이지입니다. 해당 경기에서 기록된 여러 데이터와 선발 출전 선수 및 교체 선수 등을 구현하였습니다.
+description1: 경기 세부 지표를 확인할 수 있는 페이지입니다.
+description2: 해당 경기에서 기록된 여러 데이터와 선발 출전 선수 및 교체 선수 등을 구현하였습니다.
+description3:
 ---
